@@ -1,4 +1,4 @@
-# Drumskit with sound and key highlights using Javascript
+# Javascript Drumkit with sounds!
 
 Quick little virtual drunmkit that can be expanded to use more keys/sounds. 
 
